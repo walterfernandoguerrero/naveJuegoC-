@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1632133209 source:c:\users\walter\documents\prog3_c++\juegonavep3_objetos_etapa1\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+
+1631501469 c:\users\walter\documents\prog3_c++\juegonavep3_objetos_etapa1\inicializacion.h
+	<allegro.h>
+
+1632132456 c:\users\walter\documents\prog3_c++\juegonavep3_objetos_etapa1\objetos.h
+	<list>
+
+1631554762 c:\users\walter\documents\prog3_c++\juegonavep3_objetos_etapa1\bala.h
+	<allegro.h>
+
+1632967765 source:c:\users\walter\desktop\etapa2_nave\etapa2_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+
+1632549337 c:\users\walter\desktop\etapa2_nave\etapa2_nave\inicializacion.h
+	<allegro.h>
+
+1632968167 c:\users\walter\desktop\etapa2_nave\etapa2_nave\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave\etapa2_nave\bala.h
+	<allegro.h>
+
+1633207635 source:c:\users\walter\desktop\etapa2_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+
+1632549337 c:\users\walter\desktop\etapa2_nave\inicializacion.h
+	<allegro.h>
+
+1633207097 c:\users\walter\desktop\etapa2_nave\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave\bala.h
+	<allegro.h>
+
+1633207635 source:d:\users\ale\desktop\etapa2_nave-02-10-21\etapa2_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+
+1632549337 d:\users\ale\desktop\etapa2_nave-02-10-21\etapa2_nave\inicializacion.h
+	<allegro.h>
+
+1633207097 d:\users\ale\desktop\etapa2_nave-02-10-21\etapa2_nave\objetos.h
+	<list>
+
+1631554762 d:\users\ale\desktop\etapa2_nave-02-10-21\etapa2_nave\bala.h
+	<allegro.h>
+
+1634198844 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa2_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa2_nave\inicializacion.h
+	<allegro.h>
+
+1634354210 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa2_nave\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa2_nave\bala.h
+	<allegro.h>
+
+1634189709 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa2_nave\menuinicio.h
+	<iostream>
+	<allegro.h>
+
+1634613423 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa2_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa2_nave\inicializacion.h
+	<allegro.h>
+
+1634354210 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa2_nave\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa2_nave\bala.h
+	<allegro.h>
+
+1634613603 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa2_nave\menuinicio.h
+	<iostream>
+	<allegro.h>
+
+1634883729 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa4_nave_sonidos\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa4_nave_sonidos\inicializacion.h
+	<allegro.h>
+
+1634938073 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa4_nave_sonidos\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa4_nave_sonidos\bala.h
+	<allegro.h>
+
+1634885193 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa4_nave_sonidos\menuinicio.h
+	<iostream>
+	<allegro.h>
+
+1635301030 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa5_nave_tipos_naves\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa5_nave_tipos_naves\inicializacion.h
+	<allegro.h>
+
+1635301159 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa5_nave_tipos_naves\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa5_nave_tipos_naves\bala.h
+	<allegro.h>
+
+1635300385 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa5_nave_tipos_naves\menuinicio.h
+	<iostream>
+	<allegro.h>
+
+1635541628 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa6_nave_final\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa6_nave_final\inicializacion.h
+	<allegro.h>
+
+1635541806 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa6_nave_final\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa6_nave_final\bala.h
+	<allegro.h>
+
+1635475807 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\etapa6_nave_final\menuinicio.h
+	<iostream>
+	<allegro.h>
+
+1635710478 source:c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\practico_chavez_guerrero_nave\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<list>
+	"inicializacion.h"
+	"Objetos.h"
+	<stdlib.h>
+	"Bala.h"
+	"menuInicio.h"
+
+1634195930 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\practico_chavez_guerrero_nave\inicializacion.h
+	<allegro.h>
+
+1635661318 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\practico_chavez_guerrero_nave\objetos.h
+	<list>
+
+1631554762 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\practico_chavez_guerrero_nave\bala.h
+	<allegro.h>
+
+1635712717 c:\users\walter\desktop\etapa2_nave-02-10-21(2)\etapa2_nave-02-10-21\etapa_3_menu\practico_chavez_guerrero_nave\menuinicio.h
+	<iostream>
+	<allegro.h>
+
